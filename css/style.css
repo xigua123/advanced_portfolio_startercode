@@ -1,5 +1,14 @@
-/* Nav Bar CSS */
 
+/* Nav Bar CSS */
+.body {
+    position: relative;
+}
+
+.color_div {
+    height: 800px;
+    margin: 1em;
+    border-radius: 1em;
+}
 
 /* Header CSS */
 
